@@ -1,0 +1,23 @@
+h1{
+    font-size: 80px;
+    font-weight: 900;
+}
+p{
+    font-size: 35px;
+}
+
+*{
+    text-align: center;
+}
+
+button{
+    background-color: blue;
+    color: #fff;
+    border: #000 2px solid;
+    padding: 30px 75px;
+}
+
+button:hover{
+    background-color: green;
+}
+
